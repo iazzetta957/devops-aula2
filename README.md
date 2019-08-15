@@ -1,5 +1,5 @@
 # devops-aula2
 
-a Robert Downey Junior   
-Megan fox   
-Grazy Mazzafera   
+ator 1:   
+ator 2:   
+ator 3:   
